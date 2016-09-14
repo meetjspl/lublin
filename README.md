@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/lublin-meetjs/Lobby](https://badges.gitter.im/lublin-meetjs/Lobby.svg)](https://gitter.im/lublin-meetjs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ##Najbliższe spotkanie
-**14.09.2016 18:30 ** (lokalizacja jeszcze nie jest znana) 
+**14.09.2016 18:30** - Sztos (ul. Peowiaków 6)
 
 
 ###Zaproponuj temat prezentacji
