@@ -9,7 +9,7 @@
 * **14.09.2017 - Czwartek - 18:30**
 * **14.12.2017 - Czwartek - 18:30**
 
-Nie wykluczamy drobnych zmian w terminach oraz zwiększenia ilości spotkań w 2017 :wink:
+Nie wykluczamy drobnych zmian w terminach oraz zwiększenia liczby spotkań w 2017 :wink:
 
 ### Zaproponuj temat prezentacji
 Masz temat, który chcesz przedstawić, ciekawe technicznie wyzwanie w projekcie, lub chcesz o czymś usłyszeć? Być może ktoś może o tym opowiedzieć na spotkaniu. Zgłoś temat prezentacji jako "issue" w tym repozytorium. Wystarczy temat i jedno-dwa zdania opisu. Szegóły możesz dodać później. Zgłoszenie prezentacji zmotywuje Cię do jej przygotowania, jednak nadal to Ty decydujesz kiedy prezentacja jest gotowa.
