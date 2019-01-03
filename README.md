@@ -4,11 +4,7 @@
 
 ## Najbliższe spotkanie
 
-**13.01.2017 - Wtorek - 18:00**
 
-Trybunalska City Pub
-
-https://www.facebook.com/events/501950506952996/
 
 ### Zaproponuj temat prezentacji
 Masz temat, który chcesz przedstawić, ciekawe technicznie wyzwanie w projekcie, lub chcesz o czymś usłyszeć? Być może ktoś może o tym opowiedzieć na spotkaniu. Zgłoś temat prezentacji jako "issue" w tym repozytorium. Wystarczy temat i jedno-dwa zdania opisu. Szegóły możesz dodać później. Zgłoszenie prezentacji zmotywuje Cię do jej przygotowania, jednak nadal to Ty decydujesz kiedy prezentacja jest gotowa.
